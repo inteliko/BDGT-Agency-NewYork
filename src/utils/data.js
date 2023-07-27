@@ -58,7 +58,7 @@ export const workExp = [
   },
   {
     place: "eCOM",
-    tenure: "Aug 2020 - Runnig",
+    tenure: "Aug 2020 - Running",
     role: "Digital Marketing",
     detail:
       "we are working with eCOM, as there partner. We also do B2B business with them. ",
@@ -67,68 +67,35 @@ export const workExp = [
 
 export const comments = [
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Kim Park",
+    post: "Entrepreneur",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Truly a force to be reckoned with. Their marketing strategies are data-driven, innovative, and highly effective. They tailored their approach to our unique business needs, resulting in a significant increase in website traffic and, most importantly, a surge in qualified leads and sales. Their expertise in search engine optimization (SEO), content marketing, and social media management has been invaluable in growing our online presence and driving business growth.",
     img: "./people2.png",
   },
   {
     name: "Anamika Sandula",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Graphic design work delivered by BDGT has been nothing short of exceptional. Whether it's crafting eye-catching banners, captivating social media posts, or informative infographics, their creative team consistently surpassed our expectations. Their designs have significantly boosted our brand visibility and helped establish a strong and memorable brand image.",
     img: "./people1.png",
   },
   {
     name: "Anamika Sandula",
-    post: "Creative Manager",
+    post: "Product Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+      "They understood our vision and took the time to comprehend our target audience, resulting in a visually appealing and user-friendly interface. The design they created perfectly blends aesthetics with functionality, making navigating our platform a breeze for our customers.",
+    img: "./",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "CEO",
+    post: "Eakub Ali",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+      "web development services are top-notch. From conceptualization to execution, their team displayed unmatched professionalism and attention to detail. They crafted a website that not only reflects our brand identity but also delivers a seamless user experience. Our website's performance and functionality have exceeded all expectations, and we have witnessed a substantial increase in user engagement and conversions.",
+    img: "",
   },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
+  
+  
 ];
 
 export const sliderSettings = {

@@ -39,10 +39,10 @@ const Hero = () => {
         <div className={css.lowerElements}>
           <motion.div variants={fadeIn("right", "tween", 0.3, 1)} className={css.experience}>
             
-            <div className="primaryText">7</div>
+            <div className="primaryText">5</div>
             <div className="secondaryText">
               <div className={css.Blue} >Years</div>
-              <div>Experience</div>
+              <div>Expert in B2B & B2C</div>
               
             </div> 
            
