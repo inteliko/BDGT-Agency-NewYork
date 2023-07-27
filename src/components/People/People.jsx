@@ -23,7 +23,7 @@ const People = () => {
         <div className={`flexCenter ${css.heading}`}>
           <span className="primaryText">People talk about us</span>
           <p style={{ marginTop: "2rem" }}>
-            
+          We take immense pride in delivering exceptional services that leave a lasting impression on our clients and their audiences.
           </p>
         </div>
 
