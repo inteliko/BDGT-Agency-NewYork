@@ -42,19 +42,19 @@ const Hero = () => {
             <div className="primaryText">5</div>
             <div className="secondaryText">
               <div className={css.Blue} >Years</div>
-              <div>Expert in B2B & B2C</div>
+              <div className={css.Blue}   >Expert in B2B & B2C</div>
               
             </div> 
            
           </motion.div>
 
           <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
-            <img src="./certificate.png" alt="" />
+            <img  src="./certificate.png" alt="" />
             <h3 className={css.green} >#Top Digital Agency In New York</h3>
-            <span> Web Development</span>
-            <span>Graphic Design</span>
-            <span>UI / UX Design</span>
-            <span>Digital Marketing</span>
+            <span className={css.span}> Web Development</span>
+            <span className={css.span}>Graphic Design</span>
+            <span className={css.span}>UI / UX Design</span>
+            <span className={css.span}>Digital Marketing</span>
           </motion.div>
         </div>
       </motion.div>
