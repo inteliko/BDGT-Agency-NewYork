@@ -70,13 +70,25 @@
 
                 svg {
                     color: $secondary;
-                    background-color: #09c809;
+                    background-color: #e7f2e7;
                     padding: 10px;
-                    color: #fffdd0;
+                    color: #0f0f0e;
                     border-radius: 999px;
                     box-shadow: 0px 4px 4px rgba(255, 255, 255, 0.05);
                 }
             }
+
+            .consultationButton {
+                background-color: orange ; /* Set the button's background color */
+                color: #fffdd0; /* Set the button's text color */
+                padding: 10px 20px; /* Adjust padding as needed */
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 16px;
+                margin-left: 20px; /* Adjust margin as needed */
+              }
+              
         }
 
 

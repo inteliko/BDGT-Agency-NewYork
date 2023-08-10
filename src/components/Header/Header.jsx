@@ -41,6 +41,11 @@ const Header = () => {
             <p>+88 01630458205</p>
             <BiPhoneCall size={"40px"} />
           </li>
+
+          <a href="https://calendly.com/bdglobaltechnology/book-consultation" target="_blank" rel="noopener noreferrer" className={css.consultationLink}>
+            <button className={css.consultationButton}>Book a Consultation</button>
+          </a>
+
         </ul>
 
         {/* for medium and small screens */}
